@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/animmo21/Linear_Regression_R/blob/main/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/animmo21/Linear_Regression_R.git/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/animmo21/Linear_Regression_R/blob/main/HEAD
+https://mybinder.org/v2/gh/animmo21/Linear_Regression_R.git/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
